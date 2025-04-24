@@ -18,7 +18,7 @@
 - 🎨 Criando com: `HTML`, `CSS`, `JavaScript`, `Java` , `Python`, `C` e `SQL`
 - 🎮 Amo jogos, principalmente RPGs e simuladores
 - 📺 Fã de animes, doramas e tudo que envolve boas histórias!
-- 🧩 Faço parte do Acamdêmico do Diretório Acadêmico de Ciência da Computação
+- 🧩 Faço parte do Diretório Acadêmico de Ciência da Computação
 - 🌍 Inglês intermediário/avançado (com foco em leitura e escuta)
 
 ---
