@@ -1,62 +1,46 @@
-<h1 align="center">Oiê! Eu sou a Ana 💻✨</h1>
+# Olá! Eu sou a Ana 🚀💻
 
-<p align="center">
-  🌟 Estudante de Ciência da Computação na <strong>FEI</strong> <br>
-  🚀 Apaixonada por tecnologia, design e organização <br>
-  🎯 Em busca de um estágio incrível na área de TI <br>
-  🎮 Viciada em café, jogos, animes e leituras. ☕
-</p>
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**  
+💡 Apaixonada por tecnologia, design, games e criar soluções que facilitem o dia a dia  
+🔍 Em busca de oportunidades para crescer na área de desenvolvimento  
+☕ Viciada em café, RPGs e boas histórias
 
 ---
 
-### 📚 Sobre mim
+## 💬 Sobre mim  
 
-- 🎓 3º semestre de Ciência da Computação – previsão de formatura: 2027
-- 🤹‍♀️ Experiência em Administração (futura gerente de projetos t.i)
-- 🧠 Estudando **Java**, **Assembly**, **Redes** e **Arquitetura de Software**
-- 📁 Projeto atual: Spotifei (Spotify) em Java!
-- 🎨 Criando com: `HTML`, `CSS`, `JavaScript`, `Java` , `Python`, `C` e `SQL`
-- 🎮 Amo jogos, principalmente RPGs e simuladores
-- 📺 Fã de animes, doramas e tudo que envolve boas histórias!
-- 🧩 Faço parte do Diretório Acadêmico de Ciência da Computação
-- 🌍 Inglês intermediário/avançado (com foco em leitura e escuta)
+- 📘 Atualmente estudando: **Java, Python, SQL, HTML, CSS e JavaScript**  
+- 🧠 Interesses: Desenvolvimento frontend, APIs, UI/UX, análise de dados  
+- 💼 Experiência prévia em Administração (gestão, processos e organização)  
+- 🎮 Gamer e fã de animes, doramas e simuladores  
+- 📚 Inglês intermediário–avançado (principalmente leitura e escuta)  
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 🚀 Projetos recentes  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql,git,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nanaveronezze&show_icons=true&theme=tokyonight" alt="Ana's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanaveronezze&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanaveronezze&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+- 🎵 **Spotifei** → Clone funcional do Spotify utilizando Java  
+- 📚 Estudos práticos de algoritmos e estrutura de dados  
+- 🌐 Mini projetos de front-end (HTML, CSS e JS)  
+- 🔧 Integração com banco de dados usando MySQL  
 
 ---
 
-### 🎉 Badges de vibes
+## 🛠️ Tecnologias & Ferramentas  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FEI%20Student-blueviolet?style=for-the-badge&logo=academia" />
-  <img src="https://img.shields.io/badge/Dev%20em%20Formação-FF69B4?style=for-the-badge&logo=developer" />
-  <img src="https://img.shields.io/badge/Otaku%20Proud-FFB6C1?style=for-the-badge&logo=anime" />
-  <img src="https://img.shields.io/badge/Gamer-8A2BE2?style=for-the-badge&logo=steam" />
-  <img src="https://img.shields.io/badge/Team%20Player-00C2CB?style=for-the-badge" />
-</p>
-
+<div style="display: inline_block"><br>
+<img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
 
 ---
 
-### 📫 Vamos nos conectar?
+## 🌐 Conecte-se comigo!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ana-maria-pinheiro-veronezze-a44166304/" target="_blank">
